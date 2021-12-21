@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "liuyuanyang@weidian.com"
+  },
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  },
+  "deprecated": false,
+  "devDependencies": {},
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "liuyuanyang",
+      "email": "liuyuanyang@vdian.com"
+    }
+  ],
+  "name": "@vdian/vbuilder-helper",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.1.12"
+}
